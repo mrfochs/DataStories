@@ -8,7 +8,7 @@ When I am not losing arguments with people in the comment sections of online new
 
 If you want to know more, have an unhealthy need for reading snarking political commentary, or love being inundated with pictures of cute dogs, you can follow me on Twitter and instagram @mrfochs.
 
-# What I hope to Learn
+# What I Hope to Learn
 For the better part of my life I have focused on creating "pretty" things - whether it was buildings, websites, photographs, or the occasional watercolor painting. When it comes to sharing data or visualizing a complex problem, I tend to spend too much time of the visuals and loos site of the underlying context trying to be understood/told. This often results in hours of image manipulation in design software due to a lack of training in formal data analysis packages. I hope to finally combine my comfort with crafting something beautiful with a new understanding of finding the "story" within the data.
 
 # Portfolio
