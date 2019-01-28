@@ -18,7 +18,7 @@
 <h3>Interactive Graphs with <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank">Google Sheets</a></h3>
   <p>
     <center>
-      <iframe width="60%" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNlX7mFgTtDCh37icuMyO6JhfN8s5h3fA7-4TM826DeAg3-Jm0MtixWKPEDUDcNfq5tjoRpaWBd7z/pubchart?oid=1072933873&amp;format=interactive"></iframe>
+      <iframe width="60%" height="375" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNlX7mFgTtDCh37icuMyO6JhfN8s5h3fA7-4TM826DeAg3-Jm0MtixWKPEDUDcNfq5tjoRpaWBd7z/pubchart?oid=1072933873&amp;format=interactive"></iframe>
     </center>
   </p>
   <p>Data Source: <a href="https://sfbos.org/sites/default/files/BLA_Report_Street_Cleaning_Cost_Survey_062518.pdf" target="_blank">Comparative Street Cleaning Costs: San Francisco and 11 Other Cities, June 25, 2018</a></p>
