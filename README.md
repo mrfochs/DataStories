@@ -12,3 +12,10 @@ If you want to know more, have an unhealthy need for reading snarking political 
 For the better part of my life I have focused on creating "pretty" things - whether it was buildings, websites, photographs, or the occasional watercolor painting. When it comes to sharing data or visualizing a complex problem, I tend to spend too much time of the visuals and loos site of the underlying context trying to be understood/told. This often results in hours of image manipulation in design software due to a lack of training in formal data analysis packages. I hope to finally combine my comfort with crafting something beautiful with a new understanding of finding the "story" within the data.
 
 # Portfolio
+
+<H2>Farming Graphic</h2>
+<p><iframe src="#"><a href="#"> </a></iframe></p>
+<hr>
+<h2>General Government Debt, 2015</h2>
+<p><iframe src="https://data.oecd.org/chart/5sm0" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5sm0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe></p>
+<hr>
