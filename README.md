@@ -46,3 +46,9 @@
   </p>
   <p>Data Source: <a href="https://data.oecd.org/gga/general-government-debt.htm" target="_blank">OECD Data</a></p>
 <hr>
+<h3>Trying to Correct a Famously Misleading Visualization</h3>
+  <p>Insert text here</p>
+  <p><iframe id="datawrapper-chart-HRmDQ" src="//datawrapper.dwcdn.net/HRmDQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="650"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+  </p>
+<hr>
+  
