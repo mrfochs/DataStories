@@ -5,7 +5,7 @@
   </p>
   <p><strong>Project Structure:</strong>
   <ol>
-    <li>Introduction to personal interest in topic area<li>
+    <li>Introduction to personal interest in topic area</li>
     <li>Go over the basic methods for collection of data and why each data set was deemed important</li>
     <li>Introduce hypothesis - "The more time spent secintary, the higher chance I have of falling back into bad buying habits"</li>
     <li>Initial findings of any repeatable and noticable trends</li>
