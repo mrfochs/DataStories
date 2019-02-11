@@ -1,8 +1,19 @@
 <h3>How much does that Lazy Afternoon Cost?</h3>
-  <p>For my final project I decided to go in a slightly different direction than most people. Instead of looking at data from somewhere else, I decided to analyze data about myself. Specifically, I am using my activity and sleep data from my FitBit compared to daily weather data, and spending/purchase data from my bank to determine if there is a trend between days I am lazy or sedintary, and spending too much money with online shopping or going to stores to pass the time.
+  <p><strong>Quick Summary:</strong> For my final project I decided to go in a slightly different direction than most. Instead of looking at data from somewhere else, I decided to analyze data about myself. Specifically, I am using my activity and sleep data from my FitBit compared to daily weather data, and spending/purchase data from my bank to determine if there is a trend between days I am lazy or sedintary, and spending too much money with online shopping or going to stores to pass the time.
   </p>
-  <p>In order to begin developing my narative for this data, I have already downloaded and begun cleaning up the data into more usable sets. The current, raw data sets can be found in a <a href="https://github.com/mrfochs/DataStories/blob/master/2018_Weather-Actvity-Sleep-Spending.xlsx" target="_blank">single spreadsheet here</a>. I also have begun looking at ways to tell the story as the data begins to overlap. An initial testing of the Shorthand website appears to be promising, and quick <a href="http://preview.shorthand.com/atSFv23m19lrzFGX" target="_blank">introduction to the project was developed and can be seen as a very basic preview here</a>.
+  <p>In order to begin developing my narative for this data, I have already downloaded and begun cleaning up the data into more usable sets. The current, raw data sets can be found in a <a href="https://github.com/mrfochs/DataStories/blob/master/2018_Weather-Actvity-Sleep-Spending.xlsx" target="_blank">single spreadsheet here</a>. I also have begun looking at ways to tell the story as the data begins to overlap. An initial testing of the Shorthand website appears to be promising, and a quick <a href="http://preview.shorthand.com/atSFv23m19lrzFGX" target="_blank">introduction to the project was developed and can be seen as a very basic preview here</a>.
   </p>
+  <p><strong>Project Structure:</strong>
+  <ol>
+    <li>Introduction to personal interest in topic area<li>
+    <li>Go over the basic methods for collection of data and why each data set was deemed important</li>
+    <li>Introduce hypothesis - "The more time spent secintary, the higher chance I have of falling back into bad buying habits"</li>
+    <li>Initial findings of any repeatable and noticable trends</li>
+    <li>Discuss what this means for myself, and how the data could be used for others</li>
+  </ol>
+  <p><strong>Challenges:</strong> The data sets are collected in different systems and making sure all data lines up is one challenge. Another is trying to develop an interesting and visually appealing way to display converging data with different scales of information and importance.</p>
+  <p><strong>Outcomes:</strong> A hope of this data research is not only a better udnerstanding of my own actions, but perhaps a logical way to collect and display personal information for others to do similar investigation sinto their lives and any habits they wish to better understand.</p>
+<hr>
   <p>To begin, I needed to determine what data I had that was both specific to me, but also available for the entire year.</p>
   <p>Since 2015, I have been wearing a FitBit activity tracker. This data is both easy to access and comprehensive for each day that I remember to wear it/have it charged. For 2018, there was only a handful of days where I did not have data to use as a result of one tracker dying and me waiting for a replacement to arrive via the FitBit warranty program.</p>
   <p>Trending out daily activity is a good starting point for understanding what I was doing each day and how much time was likely spent at my desk vs being active in my surroundings. It is my initial hypothesis that on days when I am more sedentary and "tied to my desk" for work or school, I have a higher chance of opening a new tab to buy something or try and distract myself from the task at hand.</p>
