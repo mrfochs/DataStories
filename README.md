@@ -63,3 +63,9 @@
   <p><iframe id="datawrapper-chart-HRmDQ" src="//datawrapper.dwcdn.net/HRmDQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="650"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
   </p>
 <hr>
+<h3>How much does that Lazy Afternoon Cost?</h3>
+  <p>For my final project I decided to go in a slightly different direction than most people. Instead of looking at data from somewhere else, I decided to analyze data specifically about me. Specifically, I am using my activity and sleep data from my FitBit compared to daily weather data to determine if there is a trend between days I am lazy or sedintary, and spending too much money with online shopping or going to stores to pass the time.
+  </p>
+  <p>In order to begin developing my narative for this data, I have already downloaded and begun cleanign up the data into more usable sets. The current, raw data sets can be found in a < ahref="https://github.com/mrfochs/DataStories/blob/master/2018_Weather-Actvity-Sleep-Spending.xlsx" target="_blank">single spreadsheet here</a>. I also have begun looking at ways to tell the story as the data begins to overlap. An initial testing of the Shorthand website appears to be promising, and quick <a href="http://preview.shorthand.com/atSFv23m19lrzFGX" target="_blank">introduction to the project was developed and can be seen as a preview here</a>.
+  </p>
+<hr>
