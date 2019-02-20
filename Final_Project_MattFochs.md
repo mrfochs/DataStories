@@ -21,6 +21,28 @@
   <p>The final piece to the data puzzle is the actual spending data for the year. I have been almost completely void of cash since 2012 and as a result nearly every purchase I make is tracked either through my banking app or my main credit card. For both, a full transaction list is easily downloaded with dates, amounts, and vendors clearly stated.</p>
   <p>While the data is not public in nature, it does represent data that could be easily collected by individuals looking to build similar insights into their own lives. As people become increasingly more connected to their smart devices, this level of personal exploration may be vital to maintaining good balance and understanding of our own actions - especially as apps, devices, and websites continue to make it easier for us to blindly interact and get lost in hours of potentially useless activities.</p>
   <p>An initial plotting of the data (just to see what information I have) resulted in some promsing interplays of trends, and the trick will be finding a visualization method that best displays the correlation between three or four different data sets.<img src="https://lh3.googleusercontent.com/vVqa0WDfSJ78ETvj7qX3zswpyKoaxOOnM-EYZV1DWbdfncybC2hOXGKCnLA8086VYahOoK2ETjnhuOldL_ZwJDG7-N4DFP_DgLDK7AJAAJ7KLgGy_y6kiqIoFFQMd4kd7GHO8iAadmiYICSQkY53mE4yu4xpYNGS6JmqADe4_Tn5-dPO1GngigqL_RXFQ8K5bqyiPfVUjm0JOMDhl6FaFUdRsjh3Lav20qHzRW66xipDqNKBG1Wc25IVQJCaBuSOkPWuEGCrSUjCtm552bsSrsYda4nQCIWk8JNPdQptIi6tzyI2YwrZESnGTSOKacylTHPprmY400m8Tz1esw_4bDOGWrVq7R94Hf1Iejc9yS8_na35h2DnxLvorB-uXfJgxmBSECL4AuTIP_MFnoYk2Ka9wZ7R_G0RUL3M7MNC2_4z7IvTkYAqVGHszvAgBAMQhiHjDe_6_0rz1244Jgpw-GXfeuVjINKyTN41DzyBYjiH9Ckj__e7r6KuYRAdiaNLij705C9EGXkSEieopcdk9VG6Ag7To1N_6auXAfSSxJyBd7fr5Jp3YWdLa00cvZ3HJMu4iPc7h_ZprRfmKu_nKYBEjcCry14_CoKTvYjcP1CcY3TdcMd55IQGauPoWBY9jVtBJ-fxdtq1X_AfH1JzfU4gWpjUQXta=w1242-h520-no" style="float:left;width:95%;padding:5px;" ></p>
-<h2>My Final Project Stories</h2>
-<p><a href="https://carnegiemellon.shorthandstories.com/MFochs_Story/index.html" target="_blank">Shorthand Story introduction to Why I chose this project</a></p>
-<p><a href="https://carnegiemellon.shorthandstories.com/MFochs_Process/index.html" target="_blank">Shorthand Story recap of my process to get to a final visualization plan</a></p>
+<hr>
+<h3>Story Outline</h3>
+ <p>In order to tell my initial story for why I chose the data set I did, I created a <a href="https://carnegiemellon.shorthandstories.com/MFochs_Story/index.html" target="_blank">Shorthand Story introduction</a>.</p>
+ <p>In order to tell the story of the final data in under 60 seconds, I began to highlight the main elements I wanted to cover:
+  <ol>
+    <li>Start with Question - How many have a habit you wish you could break?</li>
+    <li>Introduce the hypothesis - Using the data already tracked on our smart phones, wearables, and surroundings, we whoudl be able to develop a metric for better udnerstanding what triggers our bad habit.</li>
+    <li>Introduce the data used - Personal data collected from 2018 via Fitbit, Bank, Credit Card, and Weather app</li>
+    <li>Highlight initial trend findings - Spend more when active and on weekends - oporiste of initial assumption</li>
+    <li>Show sample Monthly data visualization and handful of daily data tracking visualizations</li>
+    <li>End with challenge to become more aware of personal data and how it can be used to inform your actions.</li>
+  </ol>
+ <p>This narritive allows for roughly 10 seconds per item - something I am fairly used to with doing a number of Pecha Kucha events over the years.</p>
+ <p>The audience for the presentation and my subsequent shorthand stories really is everyone who is looking to better understand what makes them do something and if there are any patterns or outside influences that control those actions. For the class, I will keep it about my personal data set and what can be accessed through a regular smart phone. For general public, the content would be more taylored to the specific habit or action that is tryign to be addressed - drinking, smoking, eating, etc.</p>
+<h3>Research Protocol</h3>
+ <p>In order to get a better feeling for the type of data visualizations that would be useful to an end user, I started off with a very basic set of questions:
+  <ul>
+    <li>If this graphic were given to you as a way to track certain actions, would it be helpful?</li>
+    <li>When looking at this graphic, what is the first thing you see, did that element make sense?</li>
+    <li>If this image were part of an app on your phone, would it be easier, harder, or about the same to read (compared to the 8.5x11 sheet I have printed the visual on.</li>
+    <li>What about this graphic seems familiar? Foreign?</li>
+    <li>In one word, how would you describe this graphic?</li>
+    <li>In one sentence, describe your idea graphic for tracking an aspect of your life.</li>
+  </ul>
+  <p>The breakdown of those different graphics and some initial feedback that lead me to change aspects of my data set and my visual representation were then combined <a href="https://carnegiemellon.shorthandstories.com/MFochs_Process/index.html" target="_blank">into a second shorthand story that recaps my process to a final visualization plan</a></p>
