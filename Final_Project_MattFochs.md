@@ -12,7 +12,7 @@
     <li>Discuss what this means for myself, and how the data could be used for others</li>
   </ol>
   <p><strong>Challenges:</strong> The data sets are collected in different systems and making sure all data lines up is one challenge. Another is trying to develop an interesting and visually appealing way to display converging data with different scales of information and importance.</p>
-  <p><strong>Outcomes:</strong> A hope of this data research is not only a better udnerstanding of my own actions, but perhaps a logical way to collect and display personal information for others to do similar investigation sinto their lives and any habits they wish to better understand.</p>
+  <p><strong>Outcomes:</strong> A hope of this data research is not only a better understanding of my own actions, but perhaps a logical way to collect and display personal information for others to do similar investigation sinto their lives and any habits they wish to better understand.</p>
 <hr>
   <p>To begin, I needed to determine what data I had that was both specific to me, but also available for the entire year.</p>
   <p>Since 2015, I have been wearing a FitBit activity tracker. This data is both easy to access and comprehensive for each day that I remember to wear it/have it charged. For 2018, there was only a handful of days where I did not have data to use as a result of one tracker dying and me waiting for a replacement to arrive via the FitBit warranty program.</p>
@@ -49,4 +49,10 @@
 <hr>
 <h3>Do you know what causes you to do something?</h3>
 <h5>The story of how data tracking led me to trade a wallet for a walk on weekdays when I don't get enough sleep.</h5>
-<p>
+ <p>Continuing where I left off, I began to build more focused Alluvial Diagrams of my data. I also rounded some numbers to logical intervals to consolodate the information into more useful data. Quickly I was able to find two specific trends that I thought would be relevant to my audience of graduate students - my spending habits changed once I started school, and I spent more when I had less sleep. These visualizations were used to build my initial summary of data for the final presentation but <a href="https://photos.app.goo.gl/jkkfWt8aWpxsgLvP8" target="_blank">can also be seen in an album here</a>.</p>
+ <p>As my topic and content is personal, my audience is essentially myself. However, the idea of using personal data collection to better understand your own self is something that could be useful to almost anyone. As such, I focused my content on the initial audience of students in my class. As such, images, text, and data visualizations were all created and put together in the final presentation to reflect a younger audience. This meant crisp images with bold, sans serif fonts. Short text that can be read similar to a tweet or click-bate article on Buzzfeed.</p>
+<h5>Insights I gained</h5>
+  <p>Of specific interest to me was how wrong I was with my initial assumptions about myself. I truly thought that the data would show that my spending was tied directly to the number of hours I was active or sedintary. Instead I came to realize that the biggest corelation between money I spend and my daily life, is actually what day of the week it is and if I got enough sleep the night before. As a result, weekends whether I am lazy or not, are actually the most cost effective days for me.</p>
+  <p>I was also surprised to see how drastically my spending habits shifted when I started graduate school. I knew that I was gettign less sleep and I was more stressed, but I didn't realize how much more I was spending and how I appear to be using online shopping and eating out as releif values for stress caused by work and school.</p>
+<h5>The final presentation</h5>
+  <p><a href="https://carnegiemellon.shorthandstories.com/MFochs-Final/index.html" target="_blank">To review the end result of this project, you can view the final presentation published on Shorthand</a> (includes links to all previous steps publised in seperate shorthand stories, and a link back to this GitHub page).</p>
