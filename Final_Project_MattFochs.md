@@ -46,3 +46,7 @@
     <li>In one sentence, describe your idea graphic for tracking an aspect of your life.</li>
   </ul>
   <p>The breakdown of those different graphics and some initial feedback that lead me to change aspects of my data set and my visual representation were then combined <a href="https://carnegiemellon.shorthandstories.com/MFochs_Process/index.html" target="_blank">into a second shorthand story that recaps my process to a final visualization plan</a></p>
+<hr>
+<h3>Do you know what causes you to do something?</h3>
+<h5>The story of how data tracking led me to trade a wallet for a walk on weekdays when I don't get enough sleep.</h5>
+<p>
